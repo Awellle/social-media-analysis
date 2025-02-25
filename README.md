@@ -32,6 +32,7 @@ These are the KPIs for each social media platform
  - Total Followers: 38M
 
 **Trends and Patterns**
+
 **Facebook**
 We have noticed a consistent reduction in engagements, impressions and followers from June 2024. Also, peak performance period is June 2024. 
 
