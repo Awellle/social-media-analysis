@@ -2,11 +2,15 @@
 ![Social media img]("C:\Users\JOAN\Downloads\Social-Media-analytics.jpg")
 
 ## Introduction
+
 **Prepared for:** Roots Diner
+
 **Prepared by:** Joan Ajayi
+
 **Date:** February 4, 2025
 
 ## Executive Summary
+
 This report provides the performance of Roots Diner social media performance across Facebook, Instagram and Twitter(X). 
 
 ## Key Performance Indicators (KPI)
