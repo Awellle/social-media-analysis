@@ -69,3 +69,7 @@ There was a sudden deep in metric performance in September then a consistent gro
 **Conclusion**
 
 Roots Diner’s social media performance has shown notable trends across platforms, with fluctuations in engagement, impressions, and follower growth. While each platform has its peak months, overall performance is heavily influenced by posting frequency. Key engagement days—Monday, Tuesday, and Saturday—should be leveraged for maximum reach. By increasing post frequency and maintaining a balanced content strategy, Nexus Consulting can improve its social media impact and sustain audience engagement.
+
+**Tools Used:** Microsoft Excel, Power BI
+
+**Link to Dashboard:** ![click here]("https://app.powerbi.com/view?r=eyJrIjoiMWZjM2Q4YjMtNjA1MC00NDliLWE5MjgtYmYzMzMxNzUyOTViIiwidCI6IjcyNWU1YzdmLTMyZDAtNDRiYy1iZTZjLWUwMjUxZGZjY2Q3YiJ9" )
