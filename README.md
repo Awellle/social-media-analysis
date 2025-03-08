@@ -33,6 +33,9 @@ These are the KPIs for each social media platform
 
 **Trends and Patterns**
 
+![SM_ANALYSIS_DASHBOARD](https://github.com/user-attachments/assets/c2622a55-9fc5-42bf-833e-9349688dad16)
+
+
 **Facebook**
 We have noticed a consistent reduction in engagements, impressions and followers from June 2024. Also, peak performance period is June 2024. 
 
